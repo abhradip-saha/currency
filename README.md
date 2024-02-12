@@ -2,4 +2,5 @@
 https://abhradip-saha.github.io/currency/
 
 # Description
-![image](https://github.com/abhradip-saha/currency/assets/110524706/b2e82e2f-50e0-46f7-a803-8e0f07a2a354)
+![Screenshot (132)](https://github.com/abhradip-saha/currency/assets/110524706/80a3a812-bc0d-412d-8580-4ad80fa38bc3)
+
